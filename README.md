@@ -1,0 +1,1 @@
+A collection of beginner to intermediate .NET programs demonstrating core concepts such as variables, loops, functions, classes, exception handling, and file operations. Ideal for students and developers practicing .NET and C# fundamentals.
