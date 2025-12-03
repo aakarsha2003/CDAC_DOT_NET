@@ -1,0 +1,14 @@
+C:\Users\akshith\source\repos\MedicalBot\obj\Debug\net10.0\MedicalBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akshith\source\repos\MedicalBot\obj\Debug\net10.0\MedicalBot.AssemblyInfoInputs.cache
+C:\Users\akshith\source\repos\MedicalBot\obj\Debug\net10.0\MedicalBot.AssemblyInfo.cs
+C:\Users\akshith\source\repos\MedicalBot\obj\Debug\net10.0\MedicalBot.csproj.CoreCompileInputs.cache
+C:\Users\akshith\source\repos\MedicalBot\bin\Debug\net10.0\MedicalBot.exe
+C:\Users\akshith\source\repos\MedicalBot\bin\Debug\net10.0\MedicalBot.deps.json
+C:\Users\akshith\source\repos\MedicalBot\bin\Debug\net10.0\MedicalBot.runtimeconfig.json
+C:\Users\akshith\source\repos\MedicalBot\bin\Debug\net10.0\MedicalBot.dll
+C:\Users\akshith\source\repos\MedicalBot\bin\Debug\net10.0\MedicalBot.pdb
+C:\Users\akshith\source\repos\MedicalBot\obj\Debug\net10.0\MedicalBot.dll
+C:\Users\akshith\source\repos\MedicalBot\obj\Debug\net10.0\refint\MedicalBot.dll
+C:\Users\akshith\source\repos\MedicalBot\obj\Debug\net10.0\MedicalBot.pdb
+C:\Users\akshith\source\repos\MedicalBot\obj\Debug\net10.0\MedicalBot.genruntimeconfig.cache
+C:\Users\akshith\source\repos\MedicalBot\obj\Debug\net10.0\ref\MedicalBot.dll

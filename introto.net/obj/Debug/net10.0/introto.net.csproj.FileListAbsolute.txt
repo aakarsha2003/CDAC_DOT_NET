@@ -1,0 +1,14 @@
+C:\Users\akshith\source\repos\introto.net\bin\Debug\net10.0\introto.net.exe
+C:\Users\akshith\source\repos\introto.net\bin\Debug\net10.0\introto.net.deps.json
+C:\Users\akshith\source\repos\introto.net\bin\Debug\net10.0\introto.net.runtimeconfig.json
+C:\Users\akshith\source\repos\introto.net\bin\Debug\net10.0\introto.net.dll
+C:\Users\akshith\source\repos\introto.net\bin\Debug\net10.0\introto.net.pdb
+C:\Users\akshith\source\repos\introto.net\obj\Debug\net10.0\introto.net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akshith\source\repos\introto.net\obj\Debug\net10.0\introto.net.AssemblyInfoInputs.cache
+C:\Users\akshith\source\repos\introto.net\obj\Debug\net10.0\introto.net.AssemblyInfo.cs
+C:\Users\akshith\source\repos\introto.net\obj\Debug\net10.0\introto.net.csproj.CoreCompileInputs.cache
+C:\Users\akshith\source\repos\introto.net\obj\Debug\net10.0\introto.net.dll
+C:\Users\akshith\source\repos\introto.net\obj\Debug\net10.0\refint\introto.net.dll
+C:\Users\akshith\source\repos\introto.net\obj\Debug\net10.0\introto.net.pdb
+C:\Users\akshith\source\repos\introto.net\obj\Debug\net10.0\introto.net.genruntimeconfig.cache
+C:\Users\akshith\source\repos\introto.net\obj\Debug\net10.0\ref\introto.net.dll

@@ -1,0 +1,14 @@
+C:\Users\akshith\source\repos\AreaofCircle\bin\Debug\net10.0\AreaofCircle.exe
+C:\Users\akshith\source\repos\AreaofCircle\bin\Debug\net10.0\AreaofCircle.deps.json
+C:\Users\akshith\source\repos\AreaofCircle\bin\Debug\net10.0\AreaofCircle.runtimeconfig.json
+C:\Users\akshith\source\repos\AreaofCircle\bin\Debug\net10.0\AreaofCircle.dll
+C:\Users\akshith\source\repos\AreaofCircle\bin\Debug\net10.0\AreaofCircle.pdb
+C:\Users\akshith\source\repos\AreaofCircle\obj\Debug\net10.0\AreaofCircle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akshith\source\repos\AreaofCircle\obj\Debug\net10.0\AreaofCircle.AssemblyInfoInputs.cache
+C:\Users\akshith\source\repos\AreaofCircle\obj\Debug\net10.0\AreaofCircle.AssemblyInfo.cs
+C:\Users\akshith\source\repos\AreaofCircle\obj\Debug\net10.0\AreaofCircle.csproj.CoreCompileInputs.cache
+C:\Users\akshith\source\repos\AreaofCircle\obj\Debug\net10.0\AreaofCircle.dll
+C:\Users\akshith\source\repos\AreaofCircle\obj\Debug\net10.0\refint\AreaofCircle.dll
+C:\Users\akshith\source\repos\AreaofCircle\obj\Debug\net10.0\AreaofCircle.pdb
+C:\Users\akshith\source\repos\AreaofCircle\obj\Debug\net10.0\AreaofCircle.genruntimeconfig.cache
+C:\Users\akshith\source\repos\AreaofCircle\obj\Debug\net10.0\ref\AreaofCircle.dll

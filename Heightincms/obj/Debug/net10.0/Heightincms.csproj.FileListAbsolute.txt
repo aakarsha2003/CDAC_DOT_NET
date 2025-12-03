@@ -1,0 +1,14 @@
+C:\Users\akshith\source\repos\Heightincms\bin\Debug\net10.0\Heightincms.exe
+C:\Users\akshith\source\repos\Heightincms\bin\Debug\net10.0\Heightincms.deps.json
+C:\Users\akshith\source\repos\Heightincms\bin\Debug\net10.0\Heightincms.runtimeconfig.json
+C:\Users\akshith\source\repos\Heightincms\bin\Debug\net10.0\Heightincms.dll
+C:\Users\akshith\source\repos\Heightincms\bin\Debug\net10.0\Heightincms.pdb
+C:\Users\akshith\source\repos\Heightincms\obj\Debug\net10.0\Heightincms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akshith\source\repos\Heightincms\obj\Debug\net10.0\Heightincms.AssemblyInfoInputs.cache
+C:\Users\akshith\source\repos\Heightincms\obj\Debug\net10.0\Heightincms.AssemblyInfo.cs
+C:\Users\akshith\source\repos\Heightincms\obj\Debug\net10.0\Heightincms.csproj.CoreCompileInputs.cache
+C:\Users\akshith\source\repos\Heightincms\obj\Debug\net10.0\Heightincms.dll
+C:\Users\akshith\source\repos\Heightincms\obj\Debug\net10.0\refint\Heightincms.dll
+C:\Users\akshith\source\repos\Heightincms\obj\Debug\net10.0\Heightincms.pdb
+C:\Users\akshith\source\repos\Heightincms\obj\Debug\net10.0\Heightincms.genruntimeconfig.cache
+C:\Users\akshith\source\repos\Heightincms\obj\Debug\net10.0\ref\Heightincms.dll

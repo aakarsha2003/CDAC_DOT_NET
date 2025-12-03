@@ -1,0 +1,14 @@
+C:\Users\akshith\source\repos\NearestofThousand\bin\Debug\net10.0\NearestofThousand.exe
+C:\Users\akshith\source\repos\NearestofThousand\bin\Debug\net10.0\NearestofThousand.deps.json
+C:\Users\akshith\source\repos\NearestofThousand\bin\Debug\net10.0\NearestofThousand.runtimeconfig.json
+C:\Users\akshith\source\repos\NearestofThousand\bin\Debug\net10.0\NearestofThousand.dll
+C:\Users\akshith\source\repos\NearestofThousand\bin\Debug\net10.0\NearestofThousand.pdb
+C:\Users\akshith\source\repos\NearestofThousand\obj\Debug\net10.0\NearestofThousand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akshith\source\repos\NearestofThousand\obj\Debug\net10.0\NearestofThousand.AssemblyInfoInputs.cache
+C:\Users\akshith\source\repos\NearestofThousand\obj\Debug\net10.0\NearestofThousand.AssemblyInfo.cs
+C:\Users\akshith\source\repos\NearestofThousand\obj\Debug\net10.0\NearestofThousand.csproj.CoreCompileInputs.cache
+C:\Users\akshith\source\repos\NearestofThousand\obj\Debug\net10.0\NearestofThousand.dll
+C:\Users\akshith\source\repos\NearestofThousand\obj\Debug\net10.0\refint\NearestofThousand.dll
+C:\Users\akshith\source\repos\NearestofThousand\obj\Debug\net10.0\NearestofThousand.pdb
+C:\Users\akshith\source\repos\NearestofThousand\obj\Debug\net10.0\NearestofThousand.genruntimeconfig.cache
+C:\Users\akshith\source\repos\NearestofThousand\obj\Debug\net10.0\ref\NearestofThousand.dll
